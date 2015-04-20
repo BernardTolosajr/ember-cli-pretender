@@ -17,5 +17,5 @@ You can then import Pretender in your tests:
 import Pretender from 'pretender';
 ```
 
-see: [trek/pretender](https://github.com/trek/pretender) for pretender
+see: [JarrodCTaylor/fauxjax](https://github.com/JarrodCTaylor/fauxjax) for fauxjax
 docs
